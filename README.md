@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ben Jaynes
-- 👀 I’m interested in making games with unity, and coding smims with p5.js
-- 🌱 I’m currently learning unity (c#)
-- 💻 I know HTML, CSS, JS, Java, C#, and a little python and react native
+- 👀 I’m interested in making random projects like raytracing, marching cubes, neural networks and more
+- 💻 I know HTML, CSS, JS, Java, C#, python, and a little C
 
 <!---
 mojo626/mojo626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
